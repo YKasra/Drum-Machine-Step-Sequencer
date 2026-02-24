@@ -2,6 +2,8 @@
 
 A BPM-driven drum machine built entirely in Pure Data (Pd). Features a 16-step sequencer, dedicated synthesis engines for each drum sound, genre presets, and WAV export. Built as a course project for BA Sound Technology at Azad University of Tehran.
 
+![Drum Machine Patch](https://iili.io/qKgWNkl.md.png)
+
 ---
 
 ## What It Does
